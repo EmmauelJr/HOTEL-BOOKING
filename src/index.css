@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Quintessential&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #3B82F6;
+    --color-secondary: #EF4444;
+}
+
+*{
+    font-family: Outfit;
+}
+
+.font-merriweather{
+    font-family: Merriweather  !important;
+}
